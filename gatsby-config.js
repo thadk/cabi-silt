@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     // Upscaling Technologies in Agriculture through Knowledge Extension
-    title: 'CABI Africa Soil Health in Ghana',
-    short_title: 'ASHC Interactive Map',
-    description: 'Map for farming Technologies in Ghana with CABI',
-    siteUrl: 'https://cabi-ashc.netlify.com',
+    title: 'CABI SILT (via Farm Radio)',
+    short_title: 'CABI SILT (via Farm Radio)',
+    description: 'Map for farming Technologies in Tanzania with Farm Radio',
+    siteUrl: 'https://cabi-silt.netlify.com',
     author: 'CABI',
     twitter: 'CABI_News',
     adsense: '',
@@ -46,10 +46,10 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Scaling Up Improved Legume Technologies - Interactive Map',
-        short_name: 'SILT Interactive Map',
+        short_name: 'CABI SILT Interactive Map',
         description:
           'Map for Legume Technologies in Tanzania with CABI and Farm Radio International',
-        homepage_url: 'https://fri-silt.netlify.com',
+        homepage_url: 'https://cabi-silt.netlify.com',
         start_url: '/',
         background_color: '#fff',
         theme_color: '#673ab7',
